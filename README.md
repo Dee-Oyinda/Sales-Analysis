@@ -4,6 +4,9 @@
 
 This data analysis project aims to provide insights into the 6-months sales performance of a coffee shop chain with 3 locations. By analyzing various aspects of the sales data,we seek to transform the data into an interactive dashboard that franchise owners can use to identify trends, patterns and opportunities for the business.
 
+![Screenshot 2025-01-28 194819](https://github.com/user-attachments/assets/2a9d916f-de09-4a4c-8b4f-87cb1d81713a)
+
+
 ### Data Source
 
 The data was gotten from Maven Analytics
